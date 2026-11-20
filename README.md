@@ -1,4 +1,4 @@
-# DSA Journey
+# DSA
 
 This is my first DSA repository.
 
